@@ -1,0 +1,180 @@
+2022-05-25 22:05:431 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-25 22:05:348 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (3e8401938e10ff32fc8ae771ee4c4f71)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-25 22:05:446 INFO  AuthPage :131 - Enter emailsoft543@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (3e8401938e10ff32fc8ae771ee4c4f71)] -> xpath: //input[@id='email_create']]
+2022-05-25 22:05:296 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-25 22:05:650 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-25 23:05:838 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-25 23:05:528 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-25 23:05:976 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:478 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:876 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:133 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:699 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:375 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (643c7ac4e4f6522ac6845d8f0607774c)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-26 00:05:472 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (643c7ac4e4f6522ac6845d8f0607774c)] -> xpath: //input[@id='email']]
+2022-05-26 00:05:540 INFO  SignInPage :69 - Clicking on CreateAccoutnButton[[ChromeDriver: chrome on WINDOWS (643c7ac4e4f6522ac6845d8f0607774c)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+2022-05-26 00:05:118 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:810 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (2ee85101ad6b18092f2a84784ee65374)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-26 00:05:906 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (2ee85101ad6b18092f2a84784ee65374)] -> xpath: //input[@id='email']]
+2022-05-26 00:05:970 INFO  SignInPage :69 - Clicking on CreateAccoutnButton[[ChromeDriver: chrome on WINDOWS (2ee85101ad6b18092f2a84784ee65374)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+2022-05-26 00:05:521 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:776 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-26 00:05:864 INFO  AuthPage :131 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //input[@id='email_create']]
+2022-05-26 00:05:915 INFO  AuthPage :113 - Clicking on CreateAccount[[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+2022-05-26 00:05:326 INFO  AuthPage :118 - Clicking on Gender button[[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //input[@id='id_gender2']]
+2022-05-26 00:05:339 INFO  AuthPage :121 - Enter firstnameRamto firstname field[[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //input[@id='customer_firstname']]
+2022-05-26 00:05:444 INFO  AuthPage :126 - Enter LastNameKrishna to email field [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //input[@id='customer_lastname']]
+2022-05-26 00:05:512 INFO  AuthPage :141 - Enter Password abc123 to email field [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //input[@id='email']]
+2022-05-26 00:05:593 INFO  AuthPage :146 - Selecting day10 from dropdown [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //select[@id='days']]
+2022-05-26 00:05:659 INFO  AuthPage :151 - Selecting Month10 from dropdown [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> id: months]
+2022-05-26 00:05:748 INFO  AuthPage :156 - Selecting Year1998 from dropdown [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> id: years]
+2022-05-26 00:05:829 INFO  AuthPage :171 - Enter FirstnameMr.Krishna to email field [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //input[@id='firstname']]
+2022-05-26 00:05:955 INFO  AuthPage :177 - Enter address LastnameRama to email field [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //input[@id='lastname']]
+2022-05-26 00:05:48 INFO  AuthPage :182 - Enter address Company10,Java Road to email field [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //input[@id='company']]
+2022-05-26 00:05:140 INFO  AuthPage :187 - Enter address office12,main street to email field [[ChromeDriver: chrome on WINDOWS (f977dfc1a2b9f4f84c159094768195a2)] -> xpath: //input[@id='address1']]
+2022-05-26 00:05:232 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:412 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-26 00:05:505 INFO  AuthPage :131 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //input[@id='email_create']]
+2022-05-26 00:05:561 INFO  AuthPage :113 - Clicking on CreateAccount[[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+2022-05-26 00:05:891 INFO  AuthPage :118 - Clicking on Gender button[[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //input[@id='id_gender2']]
+2022-05-26 00:05:910 INFO  AuthPage :121 - Enter firstnameRamto firstname field[[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //input[@id='customer_firstname']]
+2022-05-26 00:05:22 INFO  AuthPage :126 - Enter LastNameKrishna to email field [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //input[@id='customer_lastname']]
+2022-05-26 00:05:84 INFO  AuthPage :141 - Enter Password abc123 to email field [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //input[@id='email']]
+2022-05-26 00:05:155 INFO  AuthPage :146 - Selecting day10 from dropdown [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //select[@id='days']]
+2022-05-26 00:05:209 INFO  AuthPage :151 - Selecting Month10 from dropdown [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> id: months]
+2022-05-26 00:05:273 INFO  AuthPage :156 - Selecting Year1998 from dropdown [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> id: years]
+2022-05-26 00:05:337 INFO  AuthPage :171 - Enter FirstnameMr.Krishna to email field [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //input[@id='firstname']]
+2022-05-26 00:05:386 INFO  AuthPage :177 - Enter address LastnameRama to email field [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //input[@id='lastname']]
+2022-05-26 00:05:491 INFO  AuthPage :182 - Enter address Company10,Java Road to email field [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //input[@id='company']]
+2022-05-26 00:05:568 INFO  AuthPage :187 - Enter address office12,main street to email field [[ChromeDriver: chrome on WINDOWS (6acbb05640315f3d28ca653fdf41237d)] -> xpath: //input[@id='address1']]
+2022-05-26 00:05:923 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:852 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (f4197ab6bb69c1d7aa1e51d0ddcf028e)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-26 00:05:396 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 00:05:899 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-26 00:05:983 INFO  AuthPage :131 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='email_create']]
+2022-05-26 00:05:32 INFO  AuthPage :113 - Clicking on CreateAccount[[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+2022-05-26 00:05:832 INFO  AuthPage :118 - Clicking on Gender button[[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='id_gender2']]
+2022-05-26 00:05:852 INFO  AuthPage :121 - Enter firstnameRamto firstname field[[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='customer_firstname']]
+2022-05-26 00:05:963 INFO  AuthPage :126 - Enter LastNameKrishna to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='customer_lastname']]
+2022-05-26 00:05:31 INFO  AuthPage :141 - Enter Password abc123 to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='email']]
+2022-05-26 00:05:116 INFO  AuthPage :146 - Selecting day10 from dropdown [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //select[@id='days']]
+2022-05-26 00:05:175 INFO  AuthPage :151 - Selecting Month10 from dropdown [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> id: months]
+2022-05-26 00:05:232 INFO  AuthPage :156 - Selecting Year1998 from dropdown [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> id: years]
+2022-05-26 00:05:288 INFO  AuthPage :171 - Enter FirstnameMr.Krishna to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='firstname']]
+2022-05-26 00:05:342 INFO  AuthPage :177 - Enter address LastnameRama to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='lastname']]
+2022-05-26 00:05:440 INFO  AuthPage :182 - Enter address Company10,Java Road to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='company']]
+2022-05-26 00:05:505 INFO  AuthPage :192 - Enter addressLine212,main street to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='address1']]
+2022-05-26 00:05:561 INFO  AuthPage :197 - Enter address CityLeedsto email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='city']]
+2022-05-26 00:05:623 INFO  AuthPage :203 - Select address StateOhio to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //select[@id='id_state']]
+2022-05-26 00:05:689 INFO  AuthPage :208 - Enter address ZipCode32512 to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='postcode']]
+2022-05-26 00:05:733 INFO  AuthPage :213 - Selecting address CountryUnited States from dropdown [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //select[@id='id_country']]
+2022-05-26 00:05:798 INFO  AuthPage :218 - Enter address AddInfo Nothing to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //textarea[@id='other']]
+2022-05-26 00:05:874 INFO  AuthPage :223 - Enter address Homephone 0778456323 to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='phone']]
+2022-05-26 00:05:942 INFO  AuthPage :228 - Enter address Mobile phone 0157432712 to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='phone_mobile']]
+2022-05-26 00:05:26 INFO  AuthPage :233 - Enter address for futureRef15,Liverpool Street to email field [[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //input[@id='alias']]
+2022-05-26 00:05:449 INFO  AuthPage :238 - Clicking on Register[[ChromeDriver: chrome on WINDOWS (d52baa186c9d151df76b54d0bb207b8c)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/button[1]/span[1]]
+2022-05-26 23:05:435 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 23:05:973 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (190d89cc0902b4681deb91b3b4651ff4)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-26 23:05:619 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 23:05:589 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (0496bb9a0bbf44c8b4fb7ab395abd33e)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-26 23:05:668 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (0496bb9a0bbf44c8b4fb7ab395abd33e)] -> xpath: //input[@id='email']]
+2022-05-26 23:05:684 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (0496bb9a0bbf44c8b4fb7ab395abd33e)] -> xpath: //input[@id='passwd']]
+2022-05-27 00:05:505 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 00:05:917 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (6a9b217d79d4cdcde53d6b44ed9fd5f7)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 00:05:01 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (6a9b217d79d4cdcde53d6b44ed9fd5f7)] -> xpath: //input[@id='email']]
+2022-05-27 00:05:15 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (6a9b217d79d4cdcde53d6b44ed9fd5f7)] -> xpath: //input[@id='passwd']]
+2022-05-27 00:05:152 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (6a9b217d79d4cdcde53d6b44ed9fd5f7)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 00:05:573 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 00:05:315 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (d226115a2878b178c453309ca736e647)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 00:05:405 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (d226115a2878b178c453309ca736e647)] -> xpath: //input[@id='email']]
+2022-05-27 00:05:417 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (d226115a2878b178c453309ca736e647)] -> xpath: //input[@id='passwd']]
+2022-05-27 00:05:219 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (d226115a2878b178c453309ca736e647)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 00:05:320 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 00:05:809 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (d06b2a7b3cb1e9a34a1ffbc3c45d7a6e)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 00:05:896 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (d06b2a7b3cb1e9a34a1ffbc3c45d7a6e)] -> xpath: //input[@id='email']]
+2022-05-27 00:05:908 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (d06b2a7b3cb1e9a34a1ffbc3c45d7a6e)] -> xpath: //input[@id='passwd']]
+2022-05-27 00:05:981 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (d06b2a7b3cb1e9a34a1ffbc3c45d7a6e)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 00:05:921 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 00:05:992 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (13962ce71d86595fcdda368eb2a78d32)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 00:05:72 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (13962ce71d86595fcdda368eb2a78d32)] -> xpath: //input[@id='email']]
+2022-05-27 00:05:85 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (13962ce71d86595fcdda368eb2a78d32)] -> xpath: //input[@id='passwd']]
+2022-05-27 00:05:746 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (13962ce71d86595fcdda368eb2a78d32)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 00:05:48 INFO  MyAccountPage :49 - Clicking on MyAddress[[ChromeDriver: chrome on WINDOWS (13962ce71d86595fcdda368eb2a78d32)] -> xpath: //span[contains(text(),'My addresses')]]
+2022-05-27 00:05:212 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 00:05:133 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (c0372c2621bcf04b49cc533daa98e944)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 00:05:217 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (c0372c2621bcf04b49cc533daa98e944)] -> xpath: //input[@id='email']]
+2022-05-27 00:05:232 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (c0372c2621bcf04b49cc533daa98e944)] -> xpath: //input[@id='passwd']]
+2022-05-27 00:05:331 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (c0372c2621bcf04b49cc533daa98e944)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 00:05:330 INFO  MyAccountPage :49 - Clicking on MyAddress[[ChromeDriver: chrome on WINDOWS (c0372c2621bcf04b49cc533daa98e944)] -> xpath: //span[contains(text(),'My addresses')]]
+2022-05-27 00:05:40 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 00:05:884 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (6280c90ad57a66ff5e1c98d50a52c5a1)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 00:05:983 INFO  AuthPage :131 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (6280c90ad57a66ff5e1c98d50a52c5a1)] -> xpath: //input[@id='email_create']]
+2022-05-27 00:05:27 INFO  AuthPage :113 - Clicking on CreateAccount[[ChromeDriver: chrome on WINDOWS (6280c90ad57a66ff5e1c98d50a52c5a1)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+2022-05-27 00:05:206 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 00:05:965 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (0eeca9e5bc60680a91172f78e7c7af8a)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 00:05:46 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (0eeca9e5bc60680a91172f78e7c7af8a)] -> xpath: //input[@id='email']]
+2022-05-27 00:05:63 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (0eeca9e5bc60680a91172f78e7c7af8a)] -> xpath: //input[@id='passwd']]
+2022-05-27 00:05:845 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (0eeca9e5bc60680a91172f78e7c7af8a)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 00:05:43 INFO  MyAccountPage :49 - Clicking on MyAddress[[ChromeDriver: chrome on WINDOWS (0eeca9e5bc60680a91172f78e7c7af8a)] -> xpath: //span[contains(text(),'My addresses')]]
+2022-05-27 01:05:614 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 01:05:181 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (ba4f78dc802b647dfa823e9ba6dd7470)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 01:05:272 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (ba4f78dc802b647dfa823e9ba6dd7470)] -> xpath: //input[@id='email']]
+2022-05-27 01:05:284 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (ba4f78dc802b647dfa823e9ba6dd7470)] -> xpath: //input[@id='passwd']]
+2022-05-27 01:05:152 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (ba4f78dc802b647dfa823e9ba6dd7470)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 01:05:412 INFO  MyAccountPage :49 - Clicking on MyAddress[[ChromeDriver: chrome on WINDOWS (ba4f78dc802b647dfa823e9ba6dd7470)] -> xpath: //span[contains(text(),'My addresses')]]
+2022-05-27 01:05:637 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 01:05:208 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (977b361c8ad81f26a993fe11847984ea)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 01:05:298 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (977b361c8ad81f26a993fe11847984ea)] -> xpath: //input[@id='email']]
+2022-05-27 01:05:311 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (977b361c8ad81f26a993fe11847984ea)] -> xpath: //input[@id='passwd']]
+2022-05-27 01:05:761 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (977b361c8ad81f26a993fe11847984ea)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 01:05:277 INFO  MyAccountPage :49 - Clicking on MyAddress[[ChromeDriver: chrome on WINDOWS (977b361c8ad81f26a993fe11847984ea)] -> xpath: //span[contains(text(),'My addresses')]]
+2022-05-27 01:05:462 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 01:05:522 INFO  HomePage :55 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (77e2fb68650708b5a7c933e386010433)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 01:05:608 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (77e2fb68650708b5a7c933e386010433)] -> xpath: //input[@id='email']]
+2022-05-27 01:05:619 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (77e2fb68650708b5a7c933e386010433)] -> xpath: //input[@id='passwd']]
+2022-05-27 01:05:454 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (77e2fb68650708b5a7c933e386010433)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 01:05:844 INFO  MyAccountPage :49 - Clicking on MyAddress[[ChromeDriver: chrome on WINDOWS (77e2fb68650708b5a7c933e386010433)] -> xpath: //span[contains(text(),'My addresses')]]
+2022-05-27 19:05:650 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 19:05:714 INFO  HomePage :59 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (37ceb0c9f355f9e779deab8e60341945)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 19:05:792 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (37ceb0c9f355f9e779deab8e60341945)] -> xpath: //input[@id='email']]
+2022-05-27 19:05:801 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (37ceb0c9f355f9e779deab8e60341945)] -> xpath: //input[@id='passwd']]
+2022-05-27 19:05:813 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (37ceb0c9f355f9e779deab8e60341945)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 19:05:899 INFO  HomePage :44 - Clicking on WomenHeader[[ChromeDriver: chrome on WINDOWS (37ceb0c9f355f9e779deab8e60341945)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/a[1]]
+2022-05-27 19:05:836 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 19:05:15 INFO  HomePage :59 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (1ebb54537f113a6e0f09255602bd5806)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 19:05:938 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 19:05:478 INFO  HomePage :59 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (60fe992e70e065b31da8e49976d873b6)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 19:05:575 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (60fe992e70e065b31da8e49976d873b6)] -> xpath: //input[@id='email']]
+2022-05-27 19:05:592 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (60fe992e70e065b31da8e49976d873b6)] -> xpath: //input[@id='passwd']]
+2022-05-27 19:05:747 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (60fe992e70e065b31da8e49976d873b6)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 19:05:701 INFO  HomePage :44 - Clicking on WomenHeader[[ChromeDriver: chrome on WINDOWS (60fe992e70e065b31da8e49976d873b6)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/a[1]]
+2022-05-27 19:05:721 INFO  ProductPage :74 - Clicking on Plus[[ChromeDriver: chrome on WINDOWS (60fe992e70e065b31da8e49976d873b6)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]]
+2022-05-27 19:05:434 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 19:05:395 INFO  HomePage :59 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 19:05:540 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //input[@id='email']]
+2022-05-27 19:05:667 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //input[@id='passwd']]
+2022-05-27 19:05:431 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 19:05:392 INFO  HomePage :44 - Clicking on WomenHeader[[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //header/div[3]/div[1]/div[1]/div[6]/ul[1]/li[2]/a[1]]
+2022-05-27 19:05:843 INFO  ProductPage :74 - Clicking on Plus[[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]]
+2022-05-27 19:05:947 INFO  ProductPage :79 - Clicking on Plus[[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //body/div[@id='page']/div[2]/div[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/div[2]/h5[1]/a[1]]
+2022-05-27 19:05:08 INFO  ProductPage :117 - Clicking on AddToCart[[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //span[contains(text(),'Add to cart')]]
+2022-05-27 19:05:34 INFO  ProductPage :96 - clear Quantity[[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-27 19:05:130 INFO  ProductPage :102 - Enter quantity2 quantity field [[ChromeDriver: chrome on WINDOWS (8ef136df56312f5944ed60044b96b879)] -> xpath: //input[@id='quantity_wanted']]
+2022-05-27 21:05:318 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 21:05:937 INFO  HomePage :64 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (4acccd866fd709f7b309aba93fc0f3a9)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 21:05:22 INFO  AuthPage :131 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (4acccd866fd709f7b309aba93fc0f3a9)] -> xpath: //input[@id='email_create']]
+2022-05-27 21:05:88 INFO  AuthPage :113 - Clicking on CreateAccount[[ChromeDriver: chrome on WINDOWS (4acccd866fd709f7b309aba93fc0f3a9)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/button[1]/span[1]]
+2022-05-27 21:05:500 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 21:05:203 INFO  HomePage :64 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (c7336563e5c1b5c20cc482882acf6b59)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 21:05:304 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (c7336563e5c1b5c20cc482882acf6b59)] -> xpath: //input[@id='email']]
+2022-05-27 21:05:323 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (c7336563e5c1b5c20cc482882acf6b59)] -> xpath: //input[@id='passwd']]
+2022-05-27 21:05:295 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (c7336563e5c1b5c20cc482882acf6b59)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 21:05:897 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-27 21:05:584 INFO  HomePage :64 - Clicking on SignInHeader[[ChromeDriver: chrome on WINDOWS (2b7d3c19dc98c9de397bc95863eac0d9)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-27 21:05:693 INFO  SignInPage :54 - Enter emailtenalirama@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (2b7d3c19dc98c9de397bc95863eac0d9)] -> xpath: //input[@id='email']]
+2022-05-27 21:05:716 INFO  SignInPage :57 - Enter Passwordabc123 to email field [[ChromeDriver: chrome on WINDOWS (2b7d3c19dc98c9de397bc95863eac0d9)] -> xpath: //input[@id='passwd']]
+2022-05-27 21:05:134 INFO  SignInPage :64 - Clicking on SignIn[[ChromeDriver: chrome on WINDOWS (2b7d3c19dc98c9de397bc95863eac0d9)] -> xpath: //body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/form[1]/div[1]/p[2]/button[1]/span[1]]
+2022-05-27 21:05:707 INFO  HomePage :73 - Clicking on ContactUs Link : [[ChromeDriver: chrome on WINDOWS (2b7d3c19dc98c9de397bc95863eac0d9)] -> xpath: //a[@title='Contact Us']]<br>
+2022-05-27 21:05:711 INFO  MyContactPage :32 - choose a subject heading : Customer service<br>
+2022-05-27 21:05:837 INFO  MyContactPage :40 - input refund message : Hello<br>
+2022-05-27 21:05:936 INFO  MyContactPage :45 - click on send button : [[ChromeDriver: chrome on WINDOWS (2b7d3c19dc98c9de397bc95863eac0d9)] -> xpath: //span[text()='Send']]<br>
